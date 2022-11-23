@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path d="m100 50c0 27.613-22.387 50-50 50s-50-22.387-50-50 22.387-50 50-50 50 22.387 50 50" fill="#4c25e0"/>
+  <path d="m19.91 30.406h60.18v5.3359h-60.18z" fill="#fff"/>
+  <path d="m19.91 37.145h60.18v5.3359h-60.18z" fill="#fff"/>
+  <path d="m19.91 43.879h60.18v5.4531h-60.18z" fill="#fff"/>
+  <path d="m19.91 50.73h60.18v5.3359h-60.18z" fill="#fff"/>
+  <path d="m19.91 57.465h60.18v5.3945h-60.18z" fill="#fff"/>
+  <path d="m19.91 64.258h60.18v5.3359h-60.18z" fill="#fff"/>
+ </g>
+</svg>
